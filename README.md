@@ -7,3 +7,10 @@ I will also be adding a section of python scripts to my a repo soon... I just ha
 The next bash nmap script will most likely be one invulving the fingerprinting side of nmap.
 
 Let me know of any ideas, comments or reccomendations!
+
+If you have any questions about the scripts use -h argument for help!
+If you still cant figure it out let me know!
+
+Hack on :)
+
+566b524a4d574d79566c5252616b4a6f556a4657626c70466145744e566e4255555731776246597763484e5a4d6d78445a465a7757564e746447706c565570315757704f556c6f79556b686853454a715a5652534d56524862454e53526c4633546c566f566d4577576c5a5757477847554645395051253344253344
